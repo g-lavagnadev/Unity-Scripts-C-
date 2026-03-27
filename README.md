@@ -1,2 +1,2 @@
 # Unity-Scripts-C#
-# A simple volleball game with SoftBody (Jelly-like) physics inspired by Blobby Volley
+# A simple volleball game with SoftBody (jelly-like) physics inspired by Blobby Volley
